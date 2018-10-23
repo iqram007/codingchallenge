@@ -1,7 +1,7 @@
 # codingchallenge
 
 Prerequisite:
- Java should be installed in your machine.
+ Java should be installed in your machine. ( Recommonded Java 1.8.0_171 or above)
 
 build the code(if you want to generate jar file, otherwise you can use the existing uploaded one).
 
