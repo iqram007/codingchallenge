@@ -3,7 +3,7 @@
 Prerequisite:
  Java should be installed in your machine.
 
-build the code
+build the code(if you want to generate jar file, otherwise you can use the existing uploaded one).
 
 run the following command in your command line
 
